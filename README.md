@@ -6,4 +6,6 @@ The content of this project wants to represent an indication of concepts and res
 
 Feel free to report any error or amend the project.
 
+## You are free to use these documents as you prefer. If you will want to mention the source, I'll appreciate that.
+
 Angelo Maragna
